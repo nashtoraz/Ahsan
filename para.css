@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: brown;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+.container{
+    padding-top: 220px;
+}
